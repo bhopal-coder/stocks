@@ -16,3 +16,4 @@ st.subheader("Analyzing close value of:")
 st.line_chart(df,y='Close')
 st.subheader("Analyzing Adj Close value with bar chart:")
 st.bar_chart(df,y='Adj Close')
+#    API_KEY = "10f1f4d38d1025e47ebc8c84cb6d893f"
